@@ -5,7 +5,7 @@
 
 <td width="42%" align="center" valign="middle">
 
-<img src="./ascii.png" width="100%" alt="ASCII Portrait">
+<!-- <img src="./ascii.png" width="100%" alt="ASCII Portrait"> -->
 
 </td>
 
