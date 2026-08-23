@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-card.png" width="100%" alt="Honey Gourav Sahu - Developer Profile"/>
+<img src="./ascii.png" width="100%" alt="Honey Gourav Sahu - Developer Profile"/>
 
 </div>
 
